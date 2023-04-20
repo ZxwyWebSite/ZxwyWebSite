@@ -10,17 +10,19 @@
 + ......
 -->
 ### 📃主页公告
++ 2023-04-20 云盘仓库被人恶意举报，已将部分敏感仓库设为私有，暂避风头。
 + 🤔啥都木有
 ### 🧱我的项目
-#### 云盘-[[HappyCloudreve](https://github.com/ZxwyWebSite/HappyCloudreve)]
-+ 基于Cloudreve3.5.3修改制作，进行了部分优化，修复了一些Bug
+#### 云盘-[[ZDrive](https://github.com/ZxwyWebSite/ZDrive)]
++ Zxwy云盘程序，使用开源版本修改构建。
 #### DDNS-[[go-dynv6](https://github.com/ZxwyWebSite/go-dynv6)]
-+ 基于dynv6的api制作，用于自动更新dns数据，支持ipv4和ipv6
++ 基于dynv6的api服务，可以自动更新dns数据，支持ipv4和ipv6
 #### 翻译-[[GoogGrassCreator](https://github.com/ZxwyWebSite/GoogGrassCreator)]
 + 使用layui制作的生草机前端，经过修改后也许会是简单的谷歌翻译器
+<!--
 #### 网站-[[HTRJ-WebSite](https://github.com/ZxwyWebSite/HTRJ-WebSite)]
 + 使用php修改制作的胡桃日记官网，起源于b站的一个视频
-<!--
+
 ### 🎯其它记录
 \> 2023-03-15
 + 升级本地服务器配置（*.zxwy.ml）
