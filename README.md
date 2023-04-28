@@ -10,7 +10,7 @@
 + ......
 -->
 ### 📃主页公告
-+ 2023-04-20 云盘仓库被人恶意举报，已将部分敏感仓库设为私有，暂避风头。
++ 2023-04-20 云盘仓库被人恶意举报，已将部分敏感仓库设为私有。
 + 🤔啥都木有
 ### 🧱我的项目
 #### 云盘-[[ZDrive](https://github.com/ZxwyWebSite/ZDrive)]
@@ -19,6 +19,8 @@
 + 基于dynv6的api服务，可以自动更新dns数据，支持ipv4和ipv6
 #### 翻译-[[GoogGrassCreator](https://github.com/ZxwyWebSite/GoogGrassCreator)]
 + 使用layui制作的生草机前端，经过修改后也许会是简单的谷歌翻译器
+#### 音源-[[GoogVoiceBank-UTAU](https://github.com/ZxwyWebSite/GoogVoiceBank-UTAU)]
++ 谷歌娘UTAU声库，暂未完成
 <!--
 #### 网站-[[HTRJ-WebSite](https://github.com/ZxwyWebSite/HTRJ-WebSite)]
 + 使用php修改制作的胡桃日记官网，起源于b站的一个视频
